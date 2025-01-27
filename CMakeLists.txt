@@ -8,6 +8,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED true)
 add_executable(${PROJECT_NAME} 
     "src/main.cpp"
     "src/listnode.cpp"
+    "src/solution.cpp"
 )
 
 target_include_directories(${PROJECT_NAME}
