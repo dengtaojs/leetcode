@@ -1,3 +1,0 @@
-C:/Users/Dengt/Source/leetcode/build/CMakeFiles/leetcode.dir
-C:/Users/Dengt/Source/leetcode/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/Dengt/Source/leetcode/build/CMakeFiles/ZERO_CHECK.dir
